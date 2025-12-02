@@ -1,2 +1,2 @@
-# Apna-college-demo
+# My-college-demo
 This is my first Git Repository
